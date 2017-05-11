@@ -7,6 +7,7 @@ import java.util.regex.Pattern
 
 class _05_String_Templates() {
     @Test fun match() {
+        print(task5())
         assertTrue("11 MAR 1952".matches(task5().toRegex()))
     }
 

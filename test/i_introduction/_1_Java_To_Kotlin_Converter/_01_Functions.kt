@@ -2,6 +2,7 @@ package i_introduction._1_Java_To_Kotlin_Converter
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
+import util.JavaCode
 
 class _01_Functions() {
     @Test fun collection() {
